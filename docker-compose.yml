@@ -1,24 +1,31 @@
-version: "3.8"
+version: '3.8'
 
 services:
   elasticsearch:
-    image: elasticsearch:${STACK_VERSION}
+    image: elasticsearch:${STACK_VERSION} # Use 7.x.x for best results, development is done on 7.17.10
     container_name: elasticsearch
     environment:
       - discovery.type=single-node
     ports:
       - 9200:9200
-    volumes:
-      - elasticsearch-data:/usr/share/elasticsearch/data
+    networks:
+      - elastic
+    # volumes:
+    #   - elasticsearch-data:/usr/share/elasticsearch/data
 
   kibana:
     image: kibana:${STACK_VERSION}
     container_name: kibana
     ports:
       - 5601:5601
+    networks:
+      - elastic
     depends_on:
       - elasticsearch
 
-volumes:
-  elasticsearch-data:
-    driver: local
+networks:
+  elastic:
+
+    # volumes:
+    #   elasticsearch-data:
+    #     driver: local
