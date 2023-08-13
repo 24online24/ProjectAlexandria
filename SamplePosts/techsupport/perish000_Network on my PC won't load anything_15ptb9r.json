@@ -1,0 +1,67 @@
+{
+    "title": "Network on my PC won't load anything",
+    "name": "t3_15ptb9r",
+    "url": "https://www.reddit.com/r/techsupport/comments/15ptb9r/network_on_my_pc_wont_load_anything/",
+    "selftext": "The problem I'm having is my Internet says it's connected but it doesn't load anything I've tried all these YouTube tutorials and even factory reset my computer and none of it worked Ill be in the middle of my game and the Internet on my computer just turns off and comes back on within a couple of minutes. It's been going on for months just going off and then coming back on it's only on my computer no one else's but now it don't load anything and even after resetting it it still does the same thing I'm starting to think it's something in my PC any help would be appreciated. :)",
+    "score": 2,
+    "upvote_ratio": 1.0,
+    "permalink": "/r/techsupport/comments/15ptb9r/network_on_my_pc_wont_load_anything/",
+    "id": "15ptb9r",
+    "author": "perish000",
+    "link_flair_text": "Open | Networking",
+    "num_comments": 3,
+    "over_18": false,
+    "spoiler": false,
+    "pinned": false,
+    "locked": false,
+    "distinguished": null,
+    "created_utc": 1691914799.0,
+    "comments": [
+        {
+            "author": "george_toolan",
+            "id": "jvzbzvb",
+            "score": 1,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15ptb9r",
+            "stickied": false,
+            "body": "Have you tried turning it off and on again?\n\nHave you tried turning your wifi router off and on again?\n\nHow exactly is your computer connected to your wifi router?",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691916982.0,
+            "parent_id": "t3_15ptb9r",
+            "replies": [
+                {
+                    "author": "perish000",
+                    "id": "jvzc5an",
+                    "score": 1,
+                    "subreddit": "techsupport",
+                    "author_flair": null,
+                    "submission": "15ptb9r",
+                    "stickied": false,
+                    "body": "Yes I have I use an Ethernet cable and I even used a different one to see if that was the problem it was still doing the same thing",
+                    "is_submitter": true,
+                    "distinguished": null,
+                    "created_utc": 1691917106.0,
+                    "parent_id": "t1_jvzbzvb",
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "author": "Ash-From-Pallet-Town",
+            "id": "jvzelxn",
+            "score": 1,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15ptb9r",
+            "stickied": false,
+            "body": "When I used to have this problem it was because the modem/router software was not updated. After I did everything got fixed.",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691919111.0,
+            "parent_id": "t3_15ptb9r",
+            "replies": []
+        }
+    ]
+}

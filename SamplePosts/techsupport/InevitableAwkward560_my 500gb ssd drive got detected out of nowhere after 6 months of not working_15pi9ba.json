@@ -1,0 +1,331 @@
+{
+    "title": "my 500gb ssd drive got detected out of nowhere after 6 months of not working",
+    "name": "t3_15pi9ba",
+    "url": "https://www.reddit.com/r/techsupport/comments/15pi9ba/my_500gb_ssd_drive_got_detected_out_of_nowhere/",
+    "selftext": "so when i got my laptop it came with a 500gb ssd drive , and 6-7 months ago my laptop stop detecting it so i bought a new 128ssd drive after that , and today the 500gb got detected out of nowhere when i booted my laptop and i found all the old data in it too , and i ran crystaldisk it gave me that is in a good state  my question is should i rely on it still? i was thinking abt making it my main drive and move my data from the 128 one to it, sorry if my question is unclear ,my english is not that good , thank u :)",
+    "score": 21,
+    "upvote_ratio": 0.83,
+    "permalink": "/r/techsupport/comments/15pi9ba/my_500gb_ssd_drive_got_detected_out_of_nowhere/",
+    "id": "15pi9ba",
+    "author": "InevitableAwkward560",
+    "link_flair_text": "Open | Hardware",
+    "num_comments": 20,
+    "over_18": false,
+    "spoiler": false,
+    "pinned": false,
+    "locked": false,
+    "distinguished": null,
+    "created_utc": 1691880970.0,
+    "comments": [
+        {
+            "author": "Re_YZ",
+            "id": "jvxt0j3",
+            "score": 12,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15pi9ba",
+            "stickied": false,
+            "body": "Backup all of the old data from that 500gb ssd before it fail again. No, dont use it for main drive, but it's ok to use it for 'not important' things. Always backup",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691884390.0,
+            "parent_id": "t3_15pi9ba",
+            "replies": [
+                {
+                    "author": "InevitableAwkward560",
+                    "id": "jvxter1",
+                    "score": 2,
+                    "subreddit": "techsupport",
+                    "author_flair": null,
+                    "submission": "15pi9ba",
+                    "stickied": false,
+                    "body": "yea i did it , i was thinking ill use it for some games maybe? and not important large files",
+                    "is_submitter": true,
+                    "distinguished": null,
+                    "created_utc": 1691884570.0,
+                    "parent_id": "t1_jvxt0j3",
+                    "replies": [
+                        {
+                            "author": "thirdbody215",
+                            "id": "jvynouf",
+                            "score": 1,
+                            "subreddit": "techsupport",
+                            "author_flair": null,
+                            "submission": "15pi9ba",
+                            "stickied": false,
+                            "body": "That would be a good use for it.",
+                            "is_submitter": false,
+                            "distinguished": null,
+                            "created_utc": 1691899692.0,
+                            "parent_id": "t1_jvxter1",
+                            "replies": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "author": "papercut2008uk",
+            "id": "jvxzfj0",
+            "score": 5,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15pi9ba",
+            "stickied": false,
+            "body": "SMART data nearly always says OK until the drive is right up to the limits of the stats and about to die. Then you get a Caution message. \n\nIt could be a number of things wrong with it, from the drive being defective or the port it's connected to having a problem.\n\n500GB SSD's are not that expensive anymore, I'd replace it, take this opportunity to remove the data from it that you can't replace.",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691887361.0,
+            "parent_id": "t3_15pi9ba",
+            "replies": [
+                {
+                    "author": "InevitableAwkward560",
+                    "id": "jvyfwrw",
+                    "score": 1,
+                    "subreddit": "techsupport",
+                    "author_flair": null,
+                    "submission": "15pi9ba",
+                    "stickied": false,
+                    "body": "probably the port tbh  , but ty !",
+                    "is_submitter": true,
+                    "distinguished": null,
+                    "created_utc": 1691895453.0,
+                    "parent_id": "t1_jvxzfj0",
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "author": "MrSansMan23",
+            "id": "jvxsyn2",
+            "score": 2,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15pi9ba",
+            "stickied": false,
+            "body": "Backup it asap",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691884366.0,
+            "parent_id": "t3_15pi9ba",
+            "replies": [
+                {
+                    "author": "InevitableAwkward560",
+                    "id": "jvxta4w",
+                    "score": 2,
+                    "subreddit": "techsupport",
+                    "author_flair": null,
+                    "submission": "15pi9ba",
+                    "stickied": false,
+                    "body": "i just did that , i don't what i did good in my life to deserve this luck lol",
+                    "is_submitter": true,
+                    "distinguished": null,
+                    "created_utc": 1691884510.0,
+                    "parent_id": "t1_jvxsyn2",
+                    "replies": [
+                        {
+                            "author": "whcchief",
+                            "id": "jvy9756",
+                            "score": 3,
+                            "subreddit": "techsupport",
+                            "author_flair": null,
+                            "submission": "15pi9ba",
+                            "stickied": false,
+                            "body": "I'm sure you're a good person who is kind.",
+                            "is_submitter": false,
+                            "distinguished": null,
+                            "created_utc": 1691892065.0,
+                            "parent_id": "t1_jvxta4w",
+                            "replies": [
+                                {
+                                    "author": "InevitableAwkward560",
+                                    "id": "jvyfhbw",
+                                    "score": 2,
+                                    "subreddit": "techsupport",
+                                    "author_flair": null,
+                                    "submission": "15pi9ba",
+                                    "stickied": false,
+                                    "body": "thanks man :) , i try to be",
+                                    "is_submitter": true,
+                                    "distinguished": null,
+                                    "created_utc": 1691895228.0,
+                                    "parent_id": "t1_jvy9756",
+                                    "replies": []
+                                }
+                            ]
+                        },
+                        {
+                            "author": "george_toolan",
+                            "id": "jvye3ne",
+                            "score": 2,
+                            "subreddit": "techsupport",
+                            "author_flair": null,
+                            "submission": "15pi9ba",
+                            "stickied": false,
+                            "body": "You are obviously very very very patient.",
+                            "is_submitter": false,
+                            "distinguished": null,
+                            "created_utc": 1691894519.0,
+                            "parent_id": "t1_jvxta4w",
+                            "replies": [
+                                {
+                                    "author": "InevitableAwkward560",
+                                    "id": "jvyfhnb",
+                                    "score": 1,
+                                    "subreddit": "techsupport",
+                                    "author_flair": null,
+                                    "submission": "15pi9ba",
+                                    "stickied": false,
+                                    "body": "i am , glad it payed off this way",
+                                    "is_submitter": true,
+                                    "distinguished": null,
+                                    "created_utc": 1691895233.0,
+                                    "parent_id": "t1_jvye3ne",
+                                    "replies": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "author": "BigSkyEnt",
+            "id": "jvyc5fy",
+            "score": 2,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15pi9ba",
+            "stickied": false,
+            "body": "Just agreeing with others saying not to rely on that 500gb ssd",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691893522.0,
+            "parent_id": "t3_15pi9ba",
+            "replies": [
+                {
+                    "author": "InevitableAwkward560",
+                    "id": "jvyfiu3",
+                    "score": 1,
+                    "subreddit": "techsupport",
+                    "author_flair": null,
+                    "submission": "15pi9ba",
+                    "stickied": false,
+                    "body": "ty for ur time !",
+                    "is_submitter": true,
+                    "distinguished": null,
+                    "created_utc": 1691895251.0,
+                    "parent_id": "t1_jvyc5fy",
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "author": "Alpha_Datura",
+            "id": "jvy7qdq",
+            "score": 1,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15pi9ba",
+            "stickied": false,
+            "body": "500gb ssd for 21 bucks... i have a few from this brand, all work great and last forever!\n\n&#x200B;\n\nhttps://www.amazon.com/TEAMGROUP-AX2-Internal-Compatible-T253A3512G0C101/dp/B08CK7T9FG/ref=sr\\_1\\_2?keywords=team+group+ssd&qid=1691891295&sr=8-2",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691891357.0,
+            "parent_id": "t3_15pi9ba",
+            "replies": [
+                {
+                    "author": "InevitableAwkward560",
+                    "id": "jvyf6dh",
+                    "score": 2,
+                    "subreddit": "techsupport",
+                    "author_flair": null,
+                    "submission": "15pi9ba",
+                    "stickied": false,
+                    "body": "i'll check it , i need it anyways , thanks  \\^\\^",
+                    "is_submitter": true,
+                    "distinguished": null,
+                    "created_utc": 1691895071.0,
+                    "parent_id": "t1_jvy7qdq",
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "author": "george_toolan",
+            "id": "jvyeepd",
+            "score": 1,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15pi9ba",
+            "stickied": false,
+            "body": "> my question is should i rely on it still?\n\nNo, absolutely not. But maybe it is just a loose connection.\n\nHave you tried turning it off and on again? If you are *lucky* they drive will disappear again and you don't have to worry about that anymore.\n\nSSDs are extremely inexpensive atm, you really should get a new 500 GB SSD or larger if you can afford it.",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691894677.0,
+            "parent_id": "t3_15pi9ba",
+            "replies": [
+                {
+                    "author": "InevitableAwkward560",
+                    "id": "jvyftqp",
+                    "score": 1,
+                    "subreddit": "techsupport",
+                    "author_flair": null,
+                    "submission": "15pi9ba",
+                    "stickied": false,
+                    "body": "i think it will probably disappear again tbh , yeah i will definetly get a new one , thanks !",
+                    "is_submitter": true,
+                    "distinguished": null,
+                    "created_utc": 1691895410.0,
+                    "parent_id": "t1_jvyeepd",
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "author": "Chramir",
+            "id": "jvylp6t",
+            "score": 1,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15pi9ba",
+            "stickied": false,
+            "body": "That sounds very peculiar, this has never happened to me with an ssd. With harddrives yes, but faulty hdds can appear and disseappear with each boot, not in the scope of 6 months. My bet is that the interface is broken. A cracked solder or something of that nature. If it's in the laptop chances are you can still use that ssd in a different computer/ sell it (make sure to do a proper format). But for that you need to test it in a different computer, to confim that hypothesis. Anyways, I wouldn't trust the ssd as it is. Back up what you have on there and then take it out. It can't be trusted anymore, at least in this laptop (assuming it's a interface problem).",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691898581.0,
+            "parent_id": "t3_15pi9ba",
+            "replies": []
+        },
+        {
+            "author": "newInnings",
+            "id": "jvyor3k",
+            "score": 1,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15pi9ba",
+            "stickied": false,
+            "body": "Which brand , also is it internal or external.\n\nhttps://arstechnica.com/gadgets/2023/08/sandisk-extreme-ssds-are-still-wiping-data-after-firmware-fix-users-say/\n\nPersonally  I have marked Crucial and SanDisk as unreliable",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691900311.0,
+            "parent_id": "t3_15pi9ba",
+            "replies": []
+        },
+        {
+            "author": "MemEG-0-D",
+            "id": "jvz4z3k",
+            "score": 1,
+            "subreddit": "techsupport",
+            "author_flair": null,
+            "submission": "15pi9ba",
+            "stickied": false,
+            "body": "I had a bad drive once. The drive would fail suddenly and on reboot, UEFI couldnt detect it. However, if I disconnect battery (laptop) and reconnect it again, the drive showed up again, with normal SMART readings. It would still be unstable and your best bet is to backup when it gets detected.",
+            "is_submitter": false,
+            "distinguished": null,
+            "created_utc": 1691911396.0,
+            "parent_id": "t3_15pi9ba",
+            "replies": []
+        }
+    ]
+}
